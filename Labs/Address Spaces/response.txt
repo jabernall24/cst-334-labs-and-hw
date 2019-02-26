@@ -1,0 +1,6 @@
+1. A place in memory.
+
+2. virtual: www.google.com
+   physical: MAC address
+
+3. 
