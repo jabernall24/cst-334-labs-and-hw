@@ -1,0 +1,46 @@
+
+# 
+# Problem lines begin with "#@".
+# For each problem line, enter your answer on the following line.
+# Do not modify this file in any way except to enter your answers.
+#
+
+# Part 1 - Address Translation
+
+#@ 1a -- enter a number
+32
+#@ 1b -- enter a number
+14
+#@ 1c -- enter 'T' or 'F'  (don't use quotes in any answer)
+T
+#@ 1d -- enter 'Y' or 'N'
+Y
+#@ 1e -- enter a physical address, or 'fault' if the virtual address is not valid
+fault
+#@ 1f -- enter 'T' or 'F'
+F
+#@ 1g -- enter '1' or '2'
+1
+# Part 2 - Segmentation
+
+#@ 2a -- enter a number
+256
+#@ 2b -- enter 'T' or 'F'
+F
+#@ 2c -- enter 'T' or 'F'
+F
+#@ 2d -- enter 'T' or 'F'
+F
+#@ 2e -- enter 'T' or 'F'
+T
+#@ 2f -- enter 'T' or 'F'
+F
+#@ 2g -- enter a physical address or 'fault' (without quotes)
+1153
+#@ 2h -- enter a physical address or 'fault'
+fault
+#@ 2i -- enter a physical address or 'fault'
+fault
+#@ 2j -- enter a physical address or 'fault'
+8032
+

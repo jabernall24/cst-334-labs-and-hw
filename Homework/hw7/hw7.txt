@@ -1,0 +1,96 @@
+
+#
+# Homework 7 answer sheet
+#
+# Problem lines begin with "#@".
+# For each problem line, put your answer *on the following line*.
+# Do not modify this file in any way except to insert your answers.
+#
+
+#
+# Problem 1
+# 
+
+# Problem 1 asks you to write the state of the free
+# list after malloc and free operations.  Please enter
+# the free list in the style shown on the homework instructions.
+# For example:  (1004,5) -> (1009,91) 
+# (spaces are ignored)
+
+#@ 1a  free(ptr1)  (write the free list)
+(1000, 4) -> (1004, 5) -> (1009, 91)
+#@ 1b  ptr2 = alloc(3)
+(1003, 1) -> (1004, 5) -> (1009, 91) 
+#@ 1c  free(ptr2)
+(1000, 3) -> (1003, 1) -> (1004, 5) -> (1009, 91)
+#@ 1d  ptr3 = alloc(10)
+(1000, 3) -> (1003, 1) -> (1004, 5) -> (1019, 81)
+#@ 1e  ptr4 = alloc(8)
+(1000, 3) -> (1003, 1) -> (1004, 5) -> (1027, 73)
+#@ 1f  ptr2 = alloc(24)  
+(1000, 2) -> (1052, 48)
+#@ 1g  ptr3 = alloc(30)
+(1000, 2) -> (1082, 18)
+#@ 1h  free(ptr1)
+(1000, 28) -> (1082, 18)
+#@ 1i  ptr4 = alloc(13)
+(1013, 15) -> (1082, 18)
+#@ 1j  ptr5 = alloc(13)
+(1013, 15) -> (1095, 5)
+#
+# Problem 2
+#
+
+#@ 2a   (enter two numbers separated by a space))
+6 10
+#@ 2b   (enter a, b, or c)
+c
+#@ 2c   (enter T or F)
+F
+#@ 2d   (enter a number)
+1048576
+#@ 2e   (enter Y or N)
+Y
+#
+# Problem 3
+#
+
+#@ 3a   (enter a, b, or c)
+
+#@ 3b   (enter a number between 0 and 1)
+
+#@ 3c   (enter a or b)
+
+#@ 3d   (enter Y or N)
+
+#@ 3e   (enter a, b, or c)
+
+#
+# Problem 4
+#
+
+#@ 4a   (enter a number only -- the units are assumed to be bytes)
+
+#@ 4b   (enter a number)
+
+#@ 4c   (enter a number only -- the units are assumed to be bytes)
+
+#@ 4d   (enter a number only -- the units are assumed to be bytes)
+
+#@ 4e   (enter a number between 0 and 1)
+
+#
+# Problem 5
+#
+
+#@ 5a   (enter a decimal number between 0 and 1)
+
+#@ 5b   (enter 5 decimal numbers, separated by spaces.  Each number is between 0 and 1)
+
+#@ 5c   (enter a decimal number between 0 and 1)
+
+#@ 5d   (enter a decimal number)
+
+#@ 5e   (enter a decimal number)
+
+
