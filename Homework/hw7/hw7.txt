@@ -56,41 +56,41 @@ Y
 #
 
 #@ 3a   (enter a, b, or c)
-
+c
 #@ 3b   (enter a number between 0 and 1)
-
+0.8
 #@ 3c   (enter a or b)
-
+a
 #@ 3d   (enter Y or N)
-
+N
 #@ 3e   (enter a, b, or c)
-
+a
 #
 # Problem 4
 #
 
 #@ 4a   (enter a number only -- the units are assumed to be bytes)
-
+65536
 #@ 4b   (enter a number)
-
+64
 #@ 4c   (enter a number only -- the units are assumed to be bytes)
-
+16384
 #@ 4d   (enter a number only -- the units are assumed to be bytes)
-
+256
 #@ 4e   (enter a number between 0 and 1)
-
+0.004
 #
 # Problem 5
 #
 
 #@ 5a   (enter a decimal number between 0 and 1)
-
+0.728800
 #@ 5b   (enter 5 decimal numbers, separated by spaces.  Each number is between 0 and 1)
-
+0.536670 0.617220 0.728800 0.827430 0.918020
 #@ 5c   (enter a decimal number between 0 and 1)
-
+0.394200
 #@ 5d   (enter a decimal number)
-
+3.565
 #@ 5e   (enter a decimal number)
-
+5.941
 
