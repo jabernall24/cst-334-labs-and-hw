@@ -1,0 +1,5 @@
+2a. yes, pthread.h
+2b. pthread_t, pthread_create, pthread_join
+2c. 2, p1, p2
+
+4. A then B after a lot of times they switched order

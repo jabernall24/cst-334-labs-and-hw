@@ -69,52 +69,52 @@
 #@ 5 If the size of the virtual address space is 32 MB, and there are
 # 2048 virtual pages, how many page bits in a virtual address?
 # (enter an NBP value)
-
+11
 
 #@ 6 How many offset bits in a virtual address?  (see previous problem)
 # (enter an NBO value)
-
+14
 
 #@ 7 If a virtual address is 8 bits, and there are 32 virtual pages,
 # how many page bits and offset bits in a virtual address?
 # (enter an NBP value)
-
+5
 
 #@ 8 How many offset bits in a virtual address?  (see previous problem)
 # (enter an NBO value)
-
+3
 
 #@ 9 If a virtual address is 32 bits, and a page is 4 KB, how
 # many page bits in a virtual address?
 # (enter a NBP value)
-
+20
 
 #@ 10 How many offset bits in a virtual address?  (see previous problem)
 # (enter an NBO value)
-
+12
 
 #@ 11 If there are 1024 virtual pages, and 10 offset bits in a
 # virtual address, then what is the size of the virtual address space,
 # in bytes?
 # (enter an SA value)
-
+20
 
 #@ 12 If the virtual address space is 64 MB, and there are 12
 # page bits in a virtual address, then what is the page size?
 # (enter an SP value)
-
+16384
 
 #@ 13 If the virtual address space is 32 KB, and each page is 2 KB,
 # then how many virtual pages are there?
 # (enter an NP value)
-
+16
 
 #@ 14 If there are 4096 pages, and each page is 8 KB, then
 # how many bits in a virtual address?
 # (enter an NBA value)
-
+25
 
 #@ 15 If a virtual address has 32 bits, and the number of pages
 # is 1024*1024, then how many offset bits in a virtual address?
 # (enter an NBO value)
-
+12

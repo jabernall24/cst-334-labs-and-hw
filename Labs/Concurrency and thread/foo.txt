@@ -1,0 +1,17995 @@
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+B
+A
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread
+./t0
+main: begin
+A
+B
+main: end
+gcc -o t0 t0.c -pthread

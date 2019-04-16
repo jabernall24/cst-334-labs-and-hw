@@ -1,0 +1,29 @@
+#
+# please edit this file by inserting your answer on the line after each problem
+#
+# DO NOT edit the file in any other way!
+#
+
+# part 1
+
+#@ 1a -- enter T or F
+T
+#@ 1b -- enter a, b, c, or d
+c
+#@ 1c -- enter Y or N
+Y
+#@ 1d -- enter T or F
+F
+#@ 1e -- enter a or b
+b
+#@ 1f -- enter T or F
+F
+#@ 1g -- enter T or F
+T
+#@ 1h -- enter T or F
+F
+#@ 1i -- enter T or F
+T
+#@ 1j -- enter T or F
+F
+
