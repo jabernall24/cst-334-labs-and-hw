@@ -1,0 +1,20 @@
+1. The rules of the programming language where not followed.
+
+2. Syntax are the rules that a programming language recognizes.
+
+3. No
+
+4. 0 or 1 surrounded by x number of parenthesis on each side.
+
+5. Yes, A -> B -> 0
+
+6. No[((1)(0))]
+   Yes, A -> (A) -> ((A)) -> ((B)) -> ((1))
+
+7. Yes
+
+8. Yes, prog -> action_stmt -> { stmt } -> { print }
+
+9. Yes
+
+10. 
