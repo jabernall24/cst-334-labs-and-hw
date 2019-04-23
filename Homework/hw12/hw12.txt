@@ -28,7 +28,7 @@ N
 #@ 1g -- enter 'Y' or 'N'
 Y
 #@ 1h -- enter 'Y' or 'N'
-Y
+N
 #@ 1i -- enter 'Y' or 'N'
 N
 #@ 1j -- enter 'Y' or 'N'
