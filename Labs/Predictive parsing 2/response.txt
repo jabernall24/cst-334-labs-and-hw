@@ -1,0 +1,27 @@
+1.
+5)
+	A
+    B
+    0
+6)
+	A
+(	A	)
+(   (   A   )	)
+	1
+8)
+	prog
+	action_stmt
+{	stmt	}
+	print
+
+2. Yes
+3.
+x = expr
+	x
+x	-	x
+	    x	-   x
+
+		x
+	x	-	x
+   x	-   x
+4.

@@ -1,0 +1,6 @@
+1. yes
+2.
+vars ::= vars1 | ""
+vars1 ::= var vars2
+vars2 ::= "," var vars2 | ""
+3. 

@@ -1,0 +1,2 @@
+vars ::= var vars2 | ""
+vars2 ::= "," var vars2 | ""
